@@ -19,7 +19,11 @@ This repository contains a rubric for evaluating outputs from a business finance
 3. Use the dataset in sales (1).xlsx for testing or extending the analysis (e.g., via Python/pandas for deeper stats).
 
 ## License
-MIT License - Feel free to use and adapt.
+MIT License
+
+Copyright (c) [2026] [Erick Kombo Ndubi]
+
+Permission is hereby granted. 
 
 ## Contact
 If you have questions, reach out via GitHub issues.
