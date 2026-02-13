@@ -1,2 +1,2 @@
 # business-finance-rubric-framework.
-Rubric for evaluating outputs of a business finance analysis model, including Excel dataset
+A rubric framework for evaluating outputs of a business finance analysis model, including sample analysis (Output.docx), rubric details (Sample 2.docx), and dataset (sales (1).xlsx).
